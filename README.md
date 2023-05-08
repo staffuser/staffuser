@@ -1,8 +1,5 @@
 ###
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=staffuser&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/staffuser/github-widgetbox) <br>
-[![Top lounge](https://github-readme-stats.vercel.app/api/top-langs/?username=staffuser)](https://github.com/anuraghazra/github-readme-stats) <br>
-![Twitch](https://img.shields.io/twitch/status/pro13_0?style=social) ![Discord](https://img.shields.io/discord/1016068838074359889) <br>
-
 ### Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp)
@@ -24,9 +21,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<!-- Profile Trophy -->
-### 🏆 GitHub Profile Trophy:
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=staffuser&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
+<br>
+[![Top lounge](https://github-readme-stats.vercel.app/api/top-langs/?username=staffuser)](https://github.com/anuraghazra/github-readme-stats) <br>
+![Twitch](https://img.shields.io/twitch/status/pro13_0?style=social) ![Discord](https://img.shields.io/discord/1016068838074359889) <br>
