@@ -1,12 +1,5 @@
 ###
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=staffuser&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/staffuser/github-widgetbox) <br>
-### Languages
-
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?logo=.net)
-
 ### Technologies
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-000?logo=microsoft-azure)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
