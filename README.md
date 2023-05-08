@@ -2,7 +2,6 @@
 [![login](https://github-widgetbox.vercel.app/api/profile?username=staffuser&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/staffuser/github-widgetbox)<br>
 [![Top lounge](https://github-readme-stats.vercel.app/api/top-langs/?username=staffuser)](https://github.com/anuraghazra/github-readme-stats) <br>
 ### Technologies
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-000?logo=microsoft-azure)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
