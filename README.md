@@ -1,7 +1,5 @@
 ### Profile:
 [![login](https://github-widgetbox.vercel.app/api/profile?username=staffuser&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/staffuser/github-widgetbox)<br>
-### Frequent languages:
-[![Top lounge](https://github-readme-stats.vercel.app/api/top-langs/?username=staffuser)](https://github.com/anuraghazra/github-readme-stats) <br>
 ### Technologies:
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
