@@ -16,4 +16,5 @@
 <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <br>
 ### Social Network:
-![Twitch](https://img.shields.io/twitch/status/pro13_0?style=social) ![Discord](https://img.shields.io/discord/1016068838074359889) ![view](https://komarev.com/ghpvc/?username=staffuser&color=blue)<br>
+![Twitch](https://img.shields.io/twitch/status/pro13_0?style=social) ![Discord](https://img.shields.io/discord/1016068838074359889) [![view](https://komarev.com/ghpvc/?username=staffuser&color=blue)](https://github.com/staffuser)<br>
+[![github.com](https://img.shields.io/github.com/staffuser)](https://github.com/staffuser)<br>
