@@ -1,10 +1,8 @@
 ### GitHub Stats:
-<div align="center>
 [![login](https://github-widgetbox.vercel.app/api/profile?username=staffuser&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/staffuser/github-widgetbox)
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=staffuser&show_icons=true&theme=blueberry" alt="ttbowen's GitHub stats">
 <br>
-</div>
 ### Technologies:
 <!-- line1 -->
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
