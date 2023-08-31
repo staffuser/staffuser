@@ -28,5 +28,5 @@
 <img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></img>
 <br>
 ### Social Network:
-![Discord](https://img.shields.io/discord/1016068838074359889) [![view](https://komarev.com/ghpvc/?username=staffuser&color=blue)](https://github.com/staffuser)
-[![Github](https://img.shields.io/github/followers/staffuser?label=Follow&style=social)](https://github.com/staffuser) ![Twitch](https://img.shields.io/twitch/status/pro13_0?style=social)<br>
+[![view](https://komarev.com/ghpvc/?username=staffuser&color=blue)](https://github.com/staffuser) ![Discord](https://img.shields.io/discord/1016068838074359889)
+[![Github](https://img.shields.io/github/followers/staffuser?label=Follow&style=social)](https://github.com/staffuser) ![Twitch](https://img.shields.io/twitch/status/pro13_0?style=social) <br>
