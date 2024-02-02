@@ -1,5 +1,5 @@
 ### GitHub Stats:
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=staffuser&data=followers,repositories,stars,commits)](https://github.com/staffuser/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=staffuser&data=followers,repositories,stars,commits)](https://github.com/staffuser/)
 <br>
 ### Technologies:
 <!-- line1 -->
